@@ -6,9 +6,7 @@
 
 除此之外，我还在做一些与游戏相关的 side project，这些 project 一部分的工作内容 host 在 GitHub 上，所以如果你对相关内容感兴趣，可以到 GitHub 的 Gamer' Witch 组织来参与相关的 project。这些 project 包括某些内容的创作、翻译和一些工具软件甚至是游戏的开发。
 
-- ✈️Gamer's Witch Channel: **[https://t.me/gswitch](https://t.me/gswitch)**
-- ✈️Gamer's Witch(Telegram): **[https://t.me/gamerswitch](https://t.me/gamerswitch)**
-- 💬Gamer's Witch(Discord): **[https://discord.gg/jRG3kNfMV7](https://discord.gg/jRG3kNfMV7)**
-- 🤝Gamer's Witch(GitHub): **[https://github.com/gamerswitch](https://github.com/gamerswitch)**
-
-感谢关注，欢迎加入一起共建这个社群。
+- ✈️Gamer's Witch Channel: **[https://t.me/gamerswitch](https://t.me/gamerswitch)**
+- ✈️Gamer's Witch (Telegram Group): **[https://t.me/gmrwitch](https://t.me/gmrwitch)**
+- 🐦Gamer's Witch (Twitter): **[https://twitter.com/gmrwitch](https://twitter.com/gmrwitch)**
+- 🤝Gamer's Witch (GitHub): **[https://github.com/gamerswitch](https://github.com/gamerswitch)**
